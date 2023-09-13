@@ -1,0 +1,11 @@
+problem: Test if a word is a palindrome
+
+step 1: we first convert to array of characters.
+
+           word: k, a, y, a, k
+
+step 2: we break the word.
+
+step 3: we compare the letter at the beginning to the letter at the end.
+
+step 4: if the letters are the same you swap.
